@@ -17,8 +17,8 @@ public class BankAccount {
         return accountID;
     }
 
-    public void setPass(String newPass) {
-        newPass = password;
+    public void setPassword(String newPass) {
+        password = newPass;
     }
 
     public boolean deposit(double amount){
