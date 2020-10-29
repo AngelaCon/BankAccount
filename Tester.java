@@ -31,6 +31,6 @@ public class Tester {
        System.out.println(testAcct.getBalance());      // return 3.5
        System.out.println(testAcct.toString());        // return 95    3.5 (the space is a tab)
 
-
+       // I used my friend Steven Lei's tester cases
     }
 }
